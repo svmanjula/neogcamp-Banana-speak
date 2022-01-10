@@ -6,7 +6,8 @@ import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&dis
  }
 
  .header{
-     padding :10px;
+     padding-top: 10px;
+     padding-bottom: 5px;
      text-align: center;
      background-color: #facc15;
      font-size: large;
